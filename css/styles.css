@@ -559,6 +559,9 @@ padding: 96px 0;
   flex-direction: column;
   gap: 16px;
   align-items: center;
+  justify-content: center;
+  
+
   }
 
 .footer-subscribe-title {
