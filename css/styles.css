@@ -129,6 +129,7 @@ body {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
+  z-index: 99;
 }
 
 .close-mb-menu-btn {
@@ -211,11 +212,11 @@ body {
 .mb-social-svg {
 }
 
-/* .is-open-menu {
+.is-open-menu {
   opacity: 1;
   pointer-events: auto;
   visibility: visible;
-} */
+}
 
 /* --------------------------------- */
 
