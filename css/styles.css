@@ -1003,6 +1003,9 @@ body {
     margin: 0 auto 36px;
     max-width: 496px;
   }
+  .features-subtitle {
+    text-align: left;
+  }
   .features-list {
     gap: 72px 24px;
   }
