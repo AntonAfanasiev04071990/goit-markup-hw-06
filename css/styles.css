@@ -79,6 +79,7 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  padding: 17px 0;
 }
 
 .header-logo-color {
@@ -664,7 +665,6 @@ body {
   align-items: center;
   justify-content: center;
   padding: 8px 24px;
-  gap: 16px;
   border: none;
 }
 
@@ -1150,11 +1150,15 @@ body {
   .footer-text {
     margin: 0 auto;
   }
+  .footer-social-block {
+    margin-bottom: 0;
+  }
   .footer-logo-text {
     margin-right: 120px;
+    margin-bottom: 0;
   }
 
   .footer-subscribe {
-    margin-left: 80px;
+    margin-left: auto;
   }
 }
